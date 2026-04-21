@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Nazmul Hossain Nissan 👋
 
-<!--
-**nazmul-nissan/nazmul-nissan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **CSE Student** at **Southeast University**. I am a passionate Developer and Brand Identity Designer dedicated to building scalable digital solutions and creating impactful visual content.
 
-Here are some ideas to get you started:
+### 🚀 What I'm currently working on:
+- 🔬 Building an E-commerce platform for Butterfly (Fashion & Apparel).
+- 🌐 Building modern web experiences for international clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+- **Programming:** JavaScript, HTML5, CSS3, Tailwind CSS
+- **CMS:** WordPress (Theme Customization & Development)
+- **Creative:** Adobe Illustrator & Adobe Photoshop (Graphic and Brand Identity Design)
+- **AI/ML:** Exploring Local LLMs with Ollama and Medical Imaging Models
+
+### 📊 GitHub Stats:
+![Nissan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul-nissan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nissan&layout=compact&theme=tokyonight)
+
+### 📫 How to reach me:
+- 📧 **Email:** nissanloverider@gmail.com
